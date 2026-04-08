@@ -6,7 +6,11 @@
 NASA SP-287
 </div>
 
+<div style="min-height: 10em; width: 100%;"></div>
+
 # WHAT MADE APOLLO A SUCCESS?
+
+<div style="min-height: 10em; width: 100%;"></div>
 
 *A series of eight articles reprinted by permission from the March 1970 issue of Astronautics & Aeronautics, a publication of the American Institute of Aeronautics and Astronautics*
 
@@ -83,104 +87,25 @@ TABLE 1-I. - DEVELOPMENT AND QUALIFICATION TESTS
 
 # FIGURES
 
-
-<table>
-  <thead>
-    <tr>
-        <th>Figure</th>
-        <th> </th>
-        <th>Page</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1-1</td>
-        <td>Vibration test level for acceptance</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>1-2</td>
-        <td>Thermal test level for acceptance</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>1-3</td>
-        <td>Results of vibration acceptance tests for 11 447 tests of 166 different components</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>1-4</td>
-        <td>Results of thermal acceptance tests for 3685 tests of 127 different components</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>1-5</td>
-        <td>Apollo 10 fuel-cell temperature oscillations as they originally appeared in flight</td>
-        <td>7</td>
-    </tr>
-    <tr>
-        <td>1-6</td>
-        <td>Disturbance of Apollo 10 fuel-cell temperature as it was identified in the laboratory</td>
-        <td>7</td>
-    </tr>
-    <tr>
-        <td>1-7</td>
-        <td>Buildup of Apollo mission capability</td>
-        <td>9</td>
-    </tr>
-    <tr>
-        <td>2-1</td>
-        <td>Mission Control Center, Houston, Texas</td>
-        <td>17</td>
-    </tr>
-    <tr>
-        <td>2-2</td>
-        <td>Service propulsion engine propellant valve and injector</td>
-        <td>18</td>
-    </tr>
-    <tr>
-        <td>2-3</td>
-        <td>Command module hatch</td>
-        <td>19</td>
-    </tr>
-    <tr>
-        <td>3-1</td>
-        <td>Revised Apollo acceptance vibration test guidelines</td>
-        <td>23</td>
-    </tr>
-    <tr>
-        <td>3-2</td>
-        <td>Revised Apollo acceptance thermal test guidelines</td>
-        <td>25</td>
-    </tr>
-    <tr>
-        <td>3-3</td>
-        <td>Results of acceptance vibration tests for 11 447 tests of 166 different components</td>
-        <td>26</td>
-    </tr>
-    <tr>
-        <td>3-4</td>
-        <td>Results of acceptance thermal tests for 3685 tests of 127 different components</td>
-        <td>26</td>
-    </tr>
-    <tr>
-        <td>3-5</td>
-        <td>Installation of the acceptance-tested crew equipment in the Apollo command module at the NASA Manned Spacecraft Center</td>
-        <td>27</td>
-    </tr>
-    <tr>
-        <td>4-1</td>
-        <td>Astronaut trains underwater in simulated zero-g condition in water-immersion facility. Astronaut wears weights on shoulders, wrists, and ankles. Total ballast is about 180 pounds</td>
-        <td>32</td>
-    </tr>
-    <tr>
-        <td>4-2</td>
-        <td>Lunar landing training vehicle trains crews for last 500 feet of altitude in critical moon landing phase</td>
-        <td>33</td>
-    </tr>
-  </tbody>
-</table>
-
+|        Figure | Description                                                                                                                                                                        |
+| ------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [1-1](#f-1-1) | Vibration test level for acceptance                                                                                                                                                |
+| [1-2](#f-1-2) | Thermal test level for acceptance                                                                                                                                                  |
+| [1-3](#f-1-3) | Results of vibration acceptance tests for 11 447 tests of 166 different components                                                                                                 |
+| [1-4](#f-1-4) | Results of thermal acceptance tests for 3685 tests of 127 different components                                                                                                     |
+| [1-5](#f-1-5) | Apollo 10 fuel-cell temperature oscillations as they originally appeared in flight                                                                                                 |
+| [1-6](#f-1-6) | Disturbance of Apollo 10 fuel-cell temperature as it was identified in the laboratory                                                                                              |
+| [1-7](#f-1-7) | Buildup of Apollo mission capability                                                                                                                                               |
+| [2-1](#f-2-1) | Mission Control Center, Houston, Texas                                                                                                                                             |
+| [2-2](#f-2-2) | Service propulsion engine propellant valve and injector                                                                                                                            |
+| [2-3](#f-2-3) | Command module hatch                                                                                                                                                               |
+| [3-1](#f-3-1) | Revised Apollo acceptance vibration test guidelines                                                                                                                                |
+| [3-2](#f-3-2) | Revised Apollo acceptance thermal test guidelines                                                                                                                                  |
+| [3-3](#f-3-3) | Results of acceptance vibration tests for 11 447 tests of 166 different components                                                                                                 |
+| [3-4](#f-3-4) | Results of acceptance thermal tests for 3685 tests of 127 different components                                                                                                     |
+| [3-5](#f-3-5) | Installation of the acceptance-tested crew equipment in the Apollo command module at the NASA Manned Spacecraft Center                                                             |
+| [4-1](#f-4-1) | Astronaut trains underwater in simulated zero-g condition in water-immersion facility. Astronaut wears weights on shoulders, wrists, and ankles. Total ballast is about 180 pounds |
+| [4-2](#f-4-2) | Lunar landing training vehicle trains crews for last 500 feet of altitude in critical moon landing phase                                                                           |
 <div style="page-break-after: always;"></div>
 
 Figure  Page
@@ -445,7 +370,7 @@ A most important facet of acceptance testing is environmental acceptance testing
 
 
 <table>
-  <caption>Figure 1-1. - Vibration test level for acceptance and Figure 1-2. - Thermal test level for acceptance.</caption>
+  <caption><a id="f-1-1"></a>Figure 1-1. - Vibration test level for acceptance and <a id="f-1-2"></a>Figure 1-2. - Thermal test level for acceptance.</caption>
   <thead>
     <tr>
       <th colspan="2">Figure 1-1. - Vibration test level for acceptance</th>
@@ -680,8 +605,8 @@ Figures 1-3 and 1-4 summarize the results of the Apollo environmental acceptance
       <th colspan="2">PERCENT FAILURE</th>
     </tr>
     <tr>
-      <th>Figure 1-3. - Results of vibration acceptance tests for 11 447 tests of 166 different components.</th>
-      <th>Figure 1-4. - Results of thermal acceptance tests for 3685 tests of 127 different components.</th>
+      <th><a id="f-1-3"></a>Figure 1-3. - Results of vibration acceptance tests for 11 447 tests of 166 different components.</th>
+      <th><a id="f-1-4"></a>Figure 1-4. - Results of thermal acceptance tests for 3685 tests of 127 different components.</th>
     </tr>
   </thead>
   <tbody>
@@ -880,8 +805,8 @@ Our investigation revealed that small, isolated disturbances in fuel-cell temper
   <caption>Apollo 10 fuel-cell temperature data (Figure 1-5 and Figure 1-6)</caption>
   <thead>
     <tr>
-      <th colspan="2">Figure 1-5. - Apollo 10 fuel-cell temperature oscillations as they originally appeared in flight.</th>
-      <th colspan="2">Figure 1-6. - Disturbance of Apollo 10 fuel-cell temperature as it was identified in the laboratory.</th>
+      <th colspan="2"><a id="f-1-5"></a>Figure 1-5. - Apollo 10 fuel-cell temperature oscillations as they originally appeared in flight.</th>
+      <th colspan="2"><a id="f-1-6"></a>Figure 1-6. - Disturbance of Apollo 10 fuel-cell temperature as it was identified in the laboratory.</th>
     </tr>
     <tr>
       <th>GROUND ELAPSED TIME, HR:MIN</th>
@@ -1312,6 +1237,7 @@ The Apollo maintenance concept, although not providing for inflight maintenance,
 
 16
 
+<a id="f-2-1"></a>
 ![A high-angle, black and white photograph of a mission control room filled with personnel at consoles and large display screens on the front wall.](img/page_27_image_1_v2.jpg)
 
 Guided by concepts of simplified functional operation, Apollo engineers combined off-the-shelf components into integrated systems which performed so efficiently that the crew was permitted to devote the majority of its time to the productive tasks of scientific experimentation and data acquisition. Some design requirements, however, resulted not so much in simple mechanisms as in extreme simplicity and reliability of operation. Thus, one crewman, wearing a pressurized space suit, can perform all critical spacecraft control functions.
@@ -1328,6 +1254,8 @@ Apollo design reviews. This procedure allowed incorporation of their knowledge a
 
 Apollo gains a measure of simplicity from features simple both in design and operation, complex in design but simple to operate, or simple by being passive in function. The concept of simple design and simple operation is best illustrated by the Apollo rocket-propulsion systems (fig. 2-2). The pressure feeding and redundant valving guarantee the arrival of the propellant in the combustion chamber, where hypergolic reaction assures ignition. Ablative materials for chamber walls assure chamber integrity while simplifying design greatly.
 
+<a id="f-2-2"></a>
+
 ![Diagram of the Service propulsion engine propellant valve and injector showing various components like nitrogen fill and drain, filters, orifices, solenoid control valves, and sensors.](img/page_28_image_1_v2.jpg)
 
 Figure 2-2. - Service propulsion engine propellant valve and injector.
@@ -1335,6 +1263,8 @@ Figure 2-2. - Service propulsion engine propellant valve and injector.
 18
 
 The latching device for the crew hatch, (fig. 2-3) illustrates a complex but simply operated mechanism. Although the device contains approximately 400 parts, it allows a crewman, with a single movement of his arm, to open the command module hatch in less than 10 seconds.
+
+<a id="f-2-3"></a>
 
 ![Photograph of the Apollo command module hatch mechanism showing various gears, latches, and structural components.](img/page_29_image_1_v2.jpg)
 
@@ -1552,6 +1482,10 @@ A component would have to withstand the vibration levels shown in figure 3-1 in 
   </tbody>
 </table>
 
+<a id="f-3-1"></a>
+
+![Revised Apollo acceptance vibration test guidelines](img/page_33_image_1_v2.jpg)
+
 Figure 3-1.- Revised Apollo acceptance vibration test guidelines.
 
 A special procedure governed mission-success equipment that could not be removed from LM 3 and LM 4 without a serious impact. Similar equipment for later spacecraft underwent the new tests. Some of the test failures indicated the possibility of similar failures on LM 3 and LM 4. Depending on the failure probability and the impact of the failure, we either changed to newly tested equipment or accepted the risk.
@@ -1725,95 +1659,29 @@ A joint meeting of North American Rockwell, Grumman Aerospace, Massachusetts Ins
 
 
 <table>
-  <caption>Figure 3-2. - Revised Apollo acceptance thermal guidelines.</caption>
-  <thead>
-    <tr>
-      <th>TIME, HR</th>
-      <th>Temperature (Solid Line)</th>
-      <th>COOLANT TEMPERATURE (COLD PLATE MOUNTED EQUIPMENT) (Dashed Line)</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
+  <caption>Figure 3-2. - Revised Apollo acceptance thermal test guidelines.</caption>
   <tbody>
     <tr>
-      <td>0</td>
-      <td>75</td>
-      <td>75</td>
-      <td>PRE-FUNCTIONAL TEST</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>75</td>
-      <td>75</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>130</td>
-      <td>125</td>
-      <td>A (Stabilization time)</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>130</td>
-      <td>125</td>
-      <td>A (Stabilization time)</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>30</td>
-      <td>25</td>
-      <td>A (Stabilization time)</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>30</td>
-      <td>25</td>
-      <td>A (Stabilization time)</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>130</td>
-      <td>125</td>
-      <td>A (Stabilization time); POST-FUNCTIONAL TEST</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>130</td>
-      <td>125</td>
-      <td>A (Stabilization time)</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>75</td>
-      <td>75</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>75</td>
-      <td>75</td>
-      <td></td>
+      <td>
+        <a id="f-3-2"></a>
+        <img src="img/page_35_chart_1_v2.jpg" />
+      </td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="4">
-        NOTES: 1. EQUIPMENT TO OPERATE AT ALL TIMES<br>
+      <td>
+        NOTES:<br>
+        1. EQUIPMENT TO OPERATE AT ALL TIMES<br>
         2. EQUIPMENT TO BE MONITORED FOR CONTINUITY AT ALL TIMES<br>
         3. A = TIME TO STABILIZE EQUIPMENT TEMPERATURE PLUS 1 HOUR MINIMUM<br>
-        4. FUNCTIONAL TEST TO BE RUN AT SELECTED TIMES FOR CERTAIN COMPONENTS<br>
-        * RANGE ≥ 100 °F indicated between peak (130) and trough (30).
+        4. FUNCTIONAL TEST TO BE RUN AT SELECTED TIMES FOR CERTAIN COMPONENTS
       </td>
     </tr>
   </tfoot>
 </table>
 
-
-
 qualification test limits. Equipment normally cooled on a cold plate should be mounted on one during the test with the coolant entering the cold plate externally controlled to between 10° and 15° F cooler than the environment. Of approximately 260 LM and 215 CSM items of deliverable equipment reviewed, 70 LM and 55 CSM items required additional or new acceptance thermal tests to augment or take the place of the acceptance vibration tests.
-
-Figure 3-2.- Revised Apollo acceptance thermal test guidelines.
 
 By December 1969, over 15 000 tests had been performed to the revised environmental acceptance test requirements. The results are shown in figures 3-3 and 3-4, and installation of acceptance-tested crew equipment for the command module is shown
 
